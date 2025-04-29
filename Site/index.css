@@ -13,7 +13,7 @@
 }
 
 body {
-    background: linear-gradient(135deg, rgb(22, 22, 22), rgb(255, 255, 255)); /* Gradient red to black */
+    background: linear-gradient(135deg, rgb(0, 255, 0), rgb(0, 0, 255)); /* Gradient red to black */
     display: flex;
     flex-direction: column;
     margin: 0;
@@ -22,7 +22,7 @@ body {
 }
 
 .bar {
-    background: linear-gradient(90deg, rgb(22, 22, 22), rgb(255, 255, 255)); /* Gradient red to black */
+    background: linear-gradient(90deg, rgb(0, 255, 0), rgb(0, 0, 255)); /* Gradient red to black */
     height: 50px;
     position: fixed;
     top: 0;
@@ -171,7 +171,7 @@ body {
 
 .mexi {
     cursor: pointer;
-    right: 450px;
+    right: 455px;
 }
 
 .updates_btn:hover {
